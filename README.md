@@ -106,17 +106,61 @@ The completed environment was validated by confirming:
 - ✓ Public HTTP access to the Wixsmart website
 - ✓ Professional website successfully served from the Linux VM
 
-## Evidence
+## Screenshots & Evidence
 
-The repository contains screenshots documenting the deployment and validation process, including Azure VM configuration, storage, SSH access, Nginx configuration, application deployment, and the final Wixsmart website.
+The following screenshots document the major stages of the deployment and provide visual evidence of the work completed.
 
-### Website Preview
+### Azure VM & Storage
+
+#### Azure Linux VM Overview
+
+![Azure Linux VM Overview](linux-vm-overview.png)
+
+#### Data Disk Formatting
+
+![Data Disk Formatting](data-disk-format.png)
+
+#### Data Disk Mounted
+
+![Data Disk Mounted](data-disk-mounted.png)
+
+### Linux Administration & SSH
+
+#### Successful SSH Access
+
+![SSH Success](ssh-success.png)
+
+#### SSH Access Restored During Troubleshooting
+
+![SSH Access Restored](ssh-access-restored.png)
+
+### Nginx Web Server
+
+#### Nginx Service Running
+
+![Nginx Service Running](nginx-service-running.png)
+
+#### Nginx Listening on Port 80
+
+![Nginx Listening on Port 80](nginx-listening-port.png)
+
+#### Nginx Web Configuration Active
+
+![Nginx Reverse Proxy Active](nginx-reverse-proxy-active.png)
+
+### Wixsmart Application
+
+#### Application Running
+
+![Wixsmart Application Running](wixsmart-application-running.png)
+
+#### Final Professional Wixsmart Website
 
 ![Wixsmart Professional Homepage](wixsmart-professional-homepage.png)
 
 A PDF version of the final website preview is also included in the repository:
 
-`wixsmart-professional-homepage 2.pdf`
+[View the Wixsmart website PDF](wixsmart-professional-homepage%202.pdf)
 
 ## Key Skills Demonstrated
 

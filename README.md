@@ -108,57 +108,59 @@ The completed environment was validated by confirming:
 
 ## Screenshots & Evidence
 
-The following screenshots document the major stages of the deployment and provide visual evidence of the work completed.
+All project screenshots are organized in the [`screenshot/`](screenshot/) directory.
 
 ### Azure VM & Storage
 
 #### Azure Linux VM Overview
 
-![Azure Linux VM Overview](linux-vm-overview.png)
+![Azure Linux VM Overview](screenshot/linux-vm-overview.png)
 
 #### Data Disk Formatting
 
-![Data Disk Formatting](data-disk-format.png)
+![Data Disk Formatting](screenshot/data-disk-format.png)
 
 #### Data Disk Mounted
 
-![Data Disk Mounted](data-disk-mounted.png)
+![Data Disk Mounted](screenshot/data-disk-mounted.png)
 
 ### Linux Administration & SSH
 
 #### Successful SSH Access
 
-![SSH Success](ssh-success.png)
+![SSH Success](screenshot/ssh-success.png)
 
 #### SSH Access Restored During Troubleshooting
 
-![SSH Access Restored](ssh-access-restored.png)
+![SSH Access Restored](screenshot/ssh-access-restored.png)
 
 ### Nginx Web Server
 
 #### Nginx Service Running
 
-![Nginx Service Running](nginx-service-running.png)
+![Nginx Service Running](screenshot/nginx-service-running.png)
 
 #### Nginx Listening on Port 80
 
-![Nginx Listening on Port 80](nginx-listening-port.png)
+![Nginx Listening on Port 80](screenshot/nginx-listening-port.png)
 
 #### Nginx Web Configuration Active
 
-![Nginx Reverse Proxy Active](nginx-reverse-proxy-active.png)
+![Nginx Configuration Active](screenshot/nginx-reverse-proxy-active.png)
 
 ### Wixsmart Application
 
 #### Application Running
 
-![Wixsmart Application Running](wixsmart-application-running.png)
+![Wixsmart Application Running](screenshot/wixsmart-application-running.png)
 
 #### Final Professional Wixsmart Website
 
-![Wixsmart Professional Homepage](wixsmart-professional-homepage.png)
+![Wixsmart Professional Homepage](screenshot/wixsmart-professional-homepage.png)
 
-A PDF version of the final website preview is also included in the repository:
+## Website Preview PDF
+
+A PDF version of the final Wixsmart website preview is included in the repository:
 
 [View the Wixsmart website PDF](wixsmart-professional-homepage%202.pdf)
 
